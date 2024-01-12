@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Desafio 01: Criando sua primeira Landing Page com HTML e CSS
 
 Bem vindo(a) ao primeiro desafio da Trilha de CSS da DIO! Nela, você vai construir sua primeira Landing Page com HTML e CSS, colocando em prática os fundamentos do CSS,
@@ -20,3 +21,6 @@ que você possa se basear.
 
 Caso tenha alguma dúvida, ou queira comparar o resultado do desafio que você fez, nós temos o site finalizado na branch *final*. Basta alterar a branch do projeto
 utilizando o comando `git checkout final` no seu terminal.
+=======
+# desafio-trilhaCss01
+>>>>>>> f9e8855f7c256ca9a363ee136a798da5ce3ce0b4
